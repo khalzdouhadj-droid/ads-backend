@@ -1,0 +1,15 @@
+{
+  "name": "ads-backend",
+  "version": "1.0.0",
+  "description": "Backend server to connect a store dashboard with Meta Ads and TikTok Ads",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "cors": "^2.8.5"
+  }
+}
